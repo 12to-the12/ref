@@ -15,3 +15,7 @@ for virtual enviroments
 this installs all packages in a python project from the requirements.txt file
     pip install -r requirements.txt
 
+C:\Users\logan\AppData\Local\Programs\Python
+
+is where python is
+
