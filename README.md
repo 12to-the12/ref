@@ -3,15 +3,29 @@
 ## overview
 this is where I'll keep all the snippets and best practices and things I need to remember when developing software
 
-## pipeline
- - design
- - build
- 	 - x
- - test
- - listen
- 
-## elements
 
-## things you can do to a software project
- - debug
- - refactor
+
+## development pipeline
+ 1. design
+	- flowcharts
+	- designate mvp & features
+ 2. build
+	- repo, crate/virtual enviroment
+ 	- write out in comments
+	- decide on naming schema
+	- build out the ui
+	- hardcode values for testing
+	- gradually fill in functionality
+ 3. improve
+	- refactor
+	- 
+ 4. test
+	- review / get reviewed
+	- unit tests
+	- beta release
+ 5. document
+
+[design paradigms](design_paradigms.md)
+
+[pip](pip.md)
+
