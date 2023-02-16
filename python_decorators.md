@@ -19,7 +19,7 @@ is shorthand for x = log(x)
 the decorator must return a function
 
 
-```mermaid
+
 graph TD
     A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
