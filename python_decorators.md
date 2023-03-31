@@ -17,3 +17,13 @@ def x(): pass
 is shorthand for x = log(x)
 
 the decorator must return a function
+
+
+```mermaid
+graph TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+  
