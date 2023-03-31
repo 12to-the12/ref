@@ -25,6 +25,12 @@ this is where I'll keep all the snippets and best practices and things I need to
 	- beta release
  5. document
 
+ a miscellaneous tip: python modules make wonderful single instance
+ classes, something I learned recently.
+ - They have their own namespace
+ - attributes and methods are accessible through the dot operator
+ - and you don't even need to mess around with class boilerplate!
+
 [design paradigms](design_paradigms.md)
 
 [pip](pip.md)
